@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="nz.co.booster">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/Booster.App.Name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Booster">
+
+        <activity
+            android:name=".SplashActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|locale"
+            android:label="@string/Booster.App.Name"
+            android:theme="@style/Theme.Booster.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".LauncherActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|locale"
+            android:label=""
+            android:windowSoftInputMode="adjustResize|stateAlwaysHidden" />
+
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|locale"
+            android:label=""
+            android:windowSoftInputMode="adjustResize|stateAlwaysHidden" />
+
+        <activity
+            android:name=".FundDetailsActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|locale"
+            android:label=""
+            android:windowSoftInputMode="adjustResize|stateAlwaysHidden" />
+
+        <activity
+            android:name=".QuestionActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|locale"
+            android:label=""
+            android:windowSoftInputMode="adjustResize|stateAlwaysHidden" />
+
+        <activity
+            android:name=".ResultActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|locale"
+            android:label=""
+            android:windowSoftInputMode="adjustResize|stateAlwaysHidden" />
+
+        <activity
+            android:name=".SubmitActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden|locale"
+            android:label=""
+            android:windowSoftInputMode="adjustResize|stateAlwaysHidden" />
+    </application>
+
+</manifest>

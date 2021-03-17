@@ -1,0 +1,10 @@
+<resources>
+    <string name="Booster.App.Name">Booster Test</string>
+    <string name="Booster.Splash.Button.Welcome">Welcome</string>
+    <string name="Booster.Splash.Button.Start">Start</string>
+    <string name="Booster.Splash.Button.Submit">Submit</string>
+    <string name="Booster.Splash.Button.Questionnaire">Questionnaire</string>
+    <string name="Booster.Splash.Button.Next">Next</string>
+    <string name="Booster.Splash.Button.Show">Show</string>
+    <string name="menu">Menu</string>
+</resources>

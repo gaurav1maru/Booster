@@ -1,0 +1,86 @@
+[
+  {
+    "start": 5,
+    "end": 12,
+    "type": "Defensive",
+    "booster_kiwisaver_scheme_fund": [
+      "Capital Guaranteed Fund",
+      "Enhanced Income Fund"
+    ],
+    "product_disclosure_statement": [
+      "Multi-sector Fund options",
+      "Single-sector and Specialty Fund options"
+    ]
+  },
+  {
+    "start": 13,
+    "end": 20,
+    "type": "Conservative",
+    "booster_kiwisaver_scheme_fund": [
+      "Default Saver Fund",
+      "Moderate Fund",
+      "Asset Class Conservative Fund"
+    ],
+    "product_disclosure_statement": [
+      "Multi-sector Fund options",
+      "Multi-sector Fund options",
+      "Asset Class Fund options"
+    ]
+  },
+  {
+    "start": 21,
+    "end": 29,
+    "type": "Balanced",
+    "booster_kiwisaver_scheme_fund": [
+      "Balanced Fund",
+      "Socially Responsible Investment Balanced Fund"
+    ],
+    "product_disclosure_statement": [
+      "Multi-sector Fund options",
+      "Socially Responsible Investment Fund options"
+    ]
+  },
+  {
+    "start": 30,
+    "end": 37,
+    "type": "Balanced Growth",
+    "booster_kiwisaver_scheme_fund": [
+      "Balanced Growth Fund",
+      "Asset Class Growth Fund"
+    ],
+    "product_disclosure_statement": [
+      "Multi-sector Fund options",
+      "Asset Class Fund options"
+    ]
+  },
+  {
+    "start": 38,
+    "end": 44,
+    "type": "Growth",
+    "booster_kiwisaver_scheme_fund": [
+      "High Growth Fund",
+      "International Share Fund",
+      "Socially Responsible Investment Growth Fund"
+    ],
+    "product_disclosure_statement": [
+      "Multi-sector Fund options",
+      "Single-sector and Specialty Fund options",
+      "Socially Responsible Investment Fund options"
+    ]
+  },
+  {
+    "start": 45,
+    "end": 50,
+    "type": "Aggressive Growth",
+    "booster_kiwisaver_scheme_fund": [
+      "Geared Growth Fund",
+      "Options Fund",
+      "Trans-Tasman Share Fund"
+    ],
+    "product_disclosure_statement": [
+      "Single-sector and Specialty Fund options",
+      "Single-sector and Specialty Fund options",
+      "Single-sector and Specialty Fund options"
+    ]
+  }
+]
